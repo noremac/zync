@@ -1,0 +1,3 @@
+# TODO
+
+* Timing/benchmarking. If the log level is bumped up we should print out total and individual loading times for plugins to help identify plugins that may be loading slowly.
