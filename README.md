@@ -24,5 +24,5 @@ Once you have your `ZYNC_PATH` setup and defined correctly, you will want to loa
 
 # Loading zync
 
-Following your `ZYNC_PATH`, `ZYNC_THEME`, and `ZYNC_PLUGINS` variable definitions, you will just need to source the zync.zsh file: `source /path/to/zync.zsh`
+Following your `ZYNC_PATH`, `ZYNC_THEME`, and `ZYNC_PLUGINS` variable definitions, simply  source the zync.zsh file: `source /path/to/zync.zsh`
 
